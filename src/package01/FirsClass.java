@@ -7,6 +7,7 @@ public class FirsClass {
 
 		System.out.println("Ilk commit from local repository");
 		System.out.println("ikinci commit from local repository");
+		System.out.println("yeni branch olusturdum ve adi feature");
 	
 	
 	}
